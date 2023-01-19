@@ -88,6 +88,7 @@ Files | Description
 [16-binary_tree_is_perfect.c](./16-binary_tree_is_perfect.c) | C function that checks if a binary tree is perfect
 [17-binary_tree_sibling.c](./17-binary_tree_sibling.c) | C function that finds the sibling of a node
 [18-binary_tree_uncle.c](./18-binary_tree_uncle.c) | C function that finds the uncle of a node
+[binary_tree_print.c](./binary_tree_print.c) | C function that prints a binary tree
 
 ## Bugs
 If you find any bug, please, let us know.
