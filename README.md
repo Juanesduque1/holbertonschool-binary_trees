@@ -22,6 +22,21 @@ Files | Description
 [3-binary_tree_delete.c](./3-binary_tree_delete.c) | C function that deletes an entire binary tree
 [4-binary_tree_is_leaf.c](./4-binary_tree_is_leaf.c) | C function that checks if a node is a leaf
 [5-binary_tree_is_root.c](./5-binary_tree_is_root.c) | C function that checks if a given node is a root
+[6-binary_tree_preorder.c](./6-binary_tree_preorder.c) | C function that goes through a binary tree using pre-order traversal
+[7-binary_tree_inorder.c](./7-binary_tree_inorder.c) | C function that goes through a binary tree using in-order traversal
+[8-binary_tree_postorder.c](./8-binary_tree_postorder.c) | C function that goes through a binary tree using post-order traversal
+[9-binary_tree_height.c](./9-binary_tree_height.c) | C function that measures the height of a binary tree
+[10-binary_tree_depth.c](./10-binary_tree_depth.c) | C function that measures the depth of a node in a binary tree
+[11-binary_tree_size.c](./11-binary_tree_size.c) | C function that measures the size of a binary tree
+[12-binary_tree_leaves.c](./12-binary_tree_leaves.c) | C function that counts the leaves in a binary tree
+[13-binary_tree_nodes.c](./13-binary_tree_nodes.c) | C function that counts the nodes with at least 1 child in a binary tree
+[14-binary_tree_balance.c](./14-binary_tree_balance.c) | C function that measures the balance factor of a binary tree
+[15-binary_tree_is_full.c](./15-binary_tree_is_full.c) | C function that checks if a binary tree is full
+[16-binary_tree_is_perfect.c](./16-binary_tree_is_perfect.c) | C function that checks if a binary tree is perfect
+[17-binary_tree_sibling.c](./17-binary_tree_sibling.c) | C function that finds the sibling of a node
+[18-binary_tree_uncle.c](./18-binary_tree_uncle.c) | C function that finds the uncle of a node
 
 
 ### Authors
+* [Obed Rayo](https://github.com/ObedRav)
+* [Juan Duque](https://github.com/Juanesduque1)
