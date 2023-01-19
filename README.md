@@ -66,6 +66,14 @@ Uncle of 54: 128
 Uncle of 12: (nil)
 alex@/tmp/binary_trees$
 ```
+
+## Ancestry Binary Tree
+
+An ancestry chart which can be mapped to a perfect 4-level binary tree
+
+<p align="center">
+ <img src= "https://upload.wikimedia.org/wikipedia/commons/2/26/Waldburg_Ahnentafel.jpg">
+
 ## Table of contents
 Files | Description
 ----- | -----------
