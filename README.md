@@ -102,7 +102,7 @@ Files | Description
 If you find any bug, please, let us know.
 
 ## Styling
-All files have been written in the Betty Style.
+All files have been written in the [Betty Style](https://github.com/hs-hq/Betty).
 
 ### Authors
 * **Obed Rayo** [Github](https://github.com/ObedRav)
