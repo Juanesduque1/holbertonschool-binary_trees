@@ -1,5 +1,8 @@
 # C - Binary trees
 
+<p align="center">
+ <img src= "https://www.geeksforgeeks.org/wp-content/uploads/binary-tree-to-DLL.png">
+
 ## Description
 
 This project is about Binary Trees in C and other tree-type data structures.
